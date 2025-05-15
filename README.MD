@@ -46,3 +46,4 @@ Os pacotes (`package`) ajudam a organizar o projeto, separando responsabilidades
 ### 📹 Vídeo Explicativo
 
 Gravei uma vídeo-aula explicando esse projeto passo a passo:
+https://www.youtube.com/live/Yxioa-jD4MY
